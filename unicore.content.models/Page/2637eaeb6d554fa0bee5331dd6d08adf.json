@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "", 
+  "description": "We can\u2019t beat malaria until we understand it. Learn about the disease that infects 200 million people a year.", 
   "language": "eng_GB", 
   "title": "WHAT IS MALARIA?", 
   "primary_category": "c8bb6a990b8b4bba9a3ce9b036828857", 
   "created_at": "2014-12-10T07:18:49+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2014-12-10T07:53:02.865507+00:00", 
+  "modified_at": "2014-12-10T08:11:32.290257+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
