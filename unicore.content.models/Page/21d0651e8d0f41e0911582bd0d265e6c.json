@@ -5,13 +5,13 @@
   "title": "HOW TO TREAT MALARIA", 
   "primary_category": "e7186b00d74d4f8dae6b56d2dee741ab", 
   "created_at": "2014-12-10T07:31:53+00:00", 
-  "featured_in_category": false, 
-  "modified_at": "2014-12-10T07:34:56.199196+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2014-12-10T07:40:22.493087+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
