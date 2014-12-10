@@ -1,5 +1,5 @@
 {
-  "subtitle": "", 
+  "subtitle": "From disrupting education to taking lives, it\u2019s important to know the effects of this devastating disease that killed 528,000 Africans last year.", 
   "uuid": "c316620dfbea4ba1a7a3567023a9a6b1", 
   "language": "eng_GB", 
   "title": "Why you should care", 
@@ -7,8 +7,8 @@
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "slug": "why-you-should-care", 
