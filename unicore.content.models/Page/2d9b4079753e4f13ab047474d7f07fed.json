@@ -6,12 +6,12 @@
   "primary_category": "a484af1f45de45ab9b6f6cd88efdbdfb", 
   "created_at": "2015-02-03T13:22:49.616401+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-02-03T13:22:49.616620+00:00", 
+  "modified_at": "2015-02-03T13:26:54.709209+00:00", 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "comment-soigner-le-paludisme", 
   "uuid": "2d9b4079753e4f13ab047474d7f07fed"
