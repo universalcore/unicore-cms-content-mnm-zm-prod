@@ -1,0 +1,32 @@
+{
+  "subtitle": "", 
+  "description": "From disrupting education to taking lives, it\u2019s important to know the effects of this devastating disease that killed 528,000 Africans last year.", 
+  "language": "eng_GB", 
+  "title": "Why Malaria Matters", 
+  "primary_category": "c8bb6a990b8b4bba9a3ce9b036828857", 
+  "created_at": "2014-12-10T07:28:32+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-02-03T14:57:36.303519+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "a499180c8d2a4a71bcc8b86e6047c883", 
+    "21d0651e8d0f41e0911582bd0d265e6c"
+  ], 
+  "id": null, 
+  "content": "Even if you don\u2019t have malaria, it can severely impact your life. \r\n\r\n**A child dies every minute from malaria**\r\n\r\n453,000 children die every year from this preventable, treatable disease. Malaria deaths are very hard on families and can destroy the potential of future generations. \r\n\r\n**It ruins education**\r\n\r\nEven if a child survives malaria, it may force them to miss important days of school. In Africa, malaria is responsible for around half of missed days of school that can be prevented.  Severe cases can also result in lifelong learning difficulties.\r\n\r\n**It destroys the economy**\r\n\r\nMalaria takes people away from work, taking valuable income away from many families. The economic impact of malaria is estimated to cost Africa 1.2 Trillion CFA franc every year.\r\n\r\n**It is completely preventable and treatable**\r\n\r\nAll this damage is unnecessary and can be avoided. By learning about prevention and treatment, you can help prepare us for the fight ahead. Learn about malaria prevention and malaria treatment.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 1, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "why-malaria-matters", 
+  "uuid": "68f145603c1246a2ba5ede8de3d0df61"
+}

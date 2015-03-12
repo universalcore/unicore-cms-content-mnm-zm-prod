@@ -1,0 +1,31 @@
+{
+  "subtitle": "", 
+  "description": "La bonne nouvelle est qu'il est facile de se prot\u00e9ger contre le paludisme ! Voici comment faire.", 
+  "language": "fre_SN", 
+  "title": "Comment pr\u00e9venir le paludisme", 
+  "primary_category": "a484af1f45de45ab9b6f6cd88efdbdfb", 
+  "created_at": "2015-02-03T13:21:31+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-02-03T15:09:11.278387+00:00", 
+  "_version": {
+    "package_version": "0.3.3", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "2d9b4079753e4f13ab047474d7f07fed"
+  ], 
+  "id": null, 
+  "content": "Le paludisme est une maladie mortelle, mais il est possible de vous prot\u00e9ger vous et votre famille gr\u00e2ce \u00e0 quelques simples pr\u00e9cautions :\r\n\r\n**Dormez toutes les nuits sous une moustiquaire.**\r\n\r\nLe moustique vecteur du paludisme pique g\u00e9n\u00e9ralement la nuit. Dormez sous une moustiquaire impr\u00e9gn\u00e9e toutes les nuits, et assurez-vous que les enfants avec qui vous vivez fassent de m\u00eame.\r\n\r\n**D\u00e9barrassez-vous des ordures et des eaux stagnantes.**\r\n\r\nLes moustiques se reproduisent dans les eaux stagnantes. Il est donc important de vous d\u00e9barrasser des ordures et d'\u00e9l\u00e9ments tels que les pneus us\u00e9s qui peuvent contenir de l'eau et favoriser la reproduction des moustiques.\r\n\r\n**Pulv\u00e9risez de l'insecticide dans votre maison.**\r\n\r\nIl est possible dans certaines zones de faire pulv\u00e9riser des produits chimiques qui tuent les moustiques vecteurs du paludisme. Cette pratique est appel\u00e9e pulv\u00e9risation cibl\u00e9e d'insecticide, et elle permet d'\u00e9loigner le danger de votre famille.\r\n\r\n**Allez au bout de votre traitement !**\r\n\r\nTerminez vos m\u00e9dicaments si vous suivez un traitement, car c'est une \u00e9tape importante pour tuer le parasite dans votre corps. M\u00eame si vous avez l'impression de ne plus \u00eatre malade, allez au bout de votre traitement contre le paludisme sinon vous resterez une menace pour votre famille.\r\n\r\nEn savoir plus sur le traitement contre le paludisme", 
+  "source": "a499180c8d2a4a71bcc8b86e6047c883", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 2, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "comment-prevenir-le-paludisme", 
+  "uuid": "c144c2124c524ff89df2e75e5e4f09b4"
+}

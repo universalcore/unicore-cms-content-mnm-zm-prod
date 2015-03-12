@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "En savoir plus sur la mani\u00e8re dont le paludisme affecte la population s\u00e9n\u00e9galaise.", 
+  "language": "fre_SN", 
+  "title": "Le paludisme au S\u00e9n\u00e9gal", 
+  "primary_category": "a484af1f45de45ab9b6f6cd88efdbdfb", 
+  "created_at": "2015-02-03T13:24:18+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-02-04T13:45:40.931669+00:00", 
+  "_version": {
+    "package_version": "0.3.3", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Le paludisme repr\u00e9sente une menace r\u00e9elle au S\u00e9n\u00e9gal. Il est donc important de prendre des pr\u00e9cautions et de vous prot\u00e9ger vous et votre famille contre cette maladie.  Voici comment le S\u00e9n\u00e9gal a \u00e9t\u00e9 affect\u00e9 par le paludisme en 2012 :\r\n\r\n - 100% de la population s\u00e9n\u00e9galaise vivait dans une zone \u00e0 risque o\u00f9 le parasite du paludisme \u00e9tait pr\u00e9sent.\r\n\r\n - Selon les estimations, 3 800 000 de personnes ont \u00e9t\u00e9 touch\u00e9es par le paludisme et 8 000 en sont mortes, \u00e0 cause d'une simple piq\u00fbre de moustique.\r\n\r\n - Le paludisme a co\u00fbt\u00e9 \u00e0 l'\u00e9conomie du S\u00e9n\u00e9gal environ 79 milliards FCFA en perte de productivit\u00e9 et en co\u00fbts de traitement.\r\n\r\n**Comment aider**\r\n\r\nLes choses peuvent \u00eatre diff\u00e9rentes.  Vous pouvez aider \u00e0 prot\u00e9ger votre famille et votre pays contre le paludisme gr\u00e2ce \u00e0 quelques simples pr\u00e9cautions :\r\n\r\n - Assurez-vous que tous les membres de votre famille dorment toutes les nuits sous une moustiquaire.\r\n\r\n - Faites-vous d\u00e9pister et soigner par un m\u00e9decin ou un agent de sant\u00e9 d\u00e8s l'apparition des premiers sympt\u00f4mes.\r\n\r\n - Assurez-vous d'aller au bout de votre traitement si vous vous faites soigner.\r\n\r\nPour en savoir plus sur le paludisme dans votre pays, consultez le programme du S\u00e9n\u00e9gal relatif au paludisme.", 
+  "source": "632980c9545f42f8bc7aac72a52af647", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 4, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "le-paludisme-au-senegal", 
+  "uuid": "acecbaad641646ecb16e1e077fa3501b"
+}

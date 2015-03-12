@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Si vous souffrez du paludisme, il est important de vous faire soigner imm\u00e9diatement. S'il n'est pas soign\u00e9, le paludisme peut \u00eatre mortel.", 
+  "language": "fre_SN", 
+  "title": "Comment soigner le paludisme", 
+  "primary_category": "a484af1f45de45ab9b6f6cd88efdbdfb", 
+  "created_at": "2015-02-03T13:22:49.616401+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-02-03T13:26:54.709209+00:00", 
+  "_version": {
+    "package_version": "0.3.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Si vous pr\u00e9sentez des sympt\u00f4mes du paludisme, vous devez vous faire aider imm\u00e9diatement pour votre sant\u00e9 et celle des membres de votre communaut\u00e9.\r\n\r\n**Rendez-vous sans attendre dans un centre de sant\u00e9 !**\r\n\r\nM\u00eame si vous n'\u00eates pas certains des sympt\u00f4mes, rendez-vous imm\u00e9diatement dans un centre de sant\u00e9 ou contactez l'agent de sant\u00e9 local. Ne trainez pas, car le paludisme est encore plus dangereux s'il n'est pas soign\u00e9.\r\n\r\n**Faites-vous d\u00e9pister.**\r\n\r\nUn Test de diagnostic rapide (TDR) fournit un diagnostic pr\u00e9cis en 15 minutes. Le centre de sant\u00e9 de votre communaut\u00e9 doit certainement en avoir, et vous pouvez m\u00eame parfois vous faire d\u00e9pister par des agents de sant\u00e9 dans votre village !\r\n\r\n**Faites-vous soigner.**\r\n\r\nLe centre de sant\u00e9 local ou les agents de sant\u00e9 communautaires poss\u00e8dent certainement un traitement qui peut vous aider \u00e0 vous sentir mieux. Le paludisme est g\u00e9n\u00e9ralement soign\u00e9 en quelques jours, mais votre prestataire de soins de sant\u00e9 est mieux inform\u00e9.\r\n\r\n**Prenez TOUS vos m\u00e9dicaments.**\r\n\r\nRetenez que si vous n'allez pas au bout de votre traitement, vous restez porteur de la maladie et vous repr\u00e9sentez une menace pour votre entourage. Les moustiques pourront encore prendre le parasite du paludisme de votre corps et infecter la prochaine personne qu'ils piqueront. Alors, m\u00eame si vous vous sentez mieux, pensez \u00e0 votre famille et \u00e0 vos amis et allez au bout de votre traitement !", 
+  "source": "21d0651e8d0f41e0911582bd0d265e6c", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 3, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "comment-soigner-le-paludisme", 
+  "uuid": "2d9b4079753e4f13ab047474d7f07fed"
+}
