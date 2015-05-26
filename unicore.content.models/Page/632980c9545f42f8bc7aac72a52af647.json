@@ -1,22 +1,22 @@
 {
   "subtitle": "", 
-  "description": "Learn more about how malaria affects the people of Nigeria", 
+  "description": "Learn more about how malaria affects the people of Zambia", 
   "language": "eng_GB", 
-  "title": "Malaria in Nigeria", 
+  "title": "Malaria in Zambia", 
   "primary_category": "c8bb6a990b8b4bba9a3ce9b036828857", 
   "created_at": "2014-12-10T08:17:33+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-04-14T05:43:41.539505+00:00", 
+  "modified_at": "2015-05-26T09:35:00.459431+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
   "id": null, 
-  "content": "Malaria is a dangerous threat in Nigeria, so it is important to take precautions and protect yourself and your family from the disease.  Here is how malaria affected Nigeria in 2012:\r\n\r\n - 100% of the population of Nigeria was living in an at-risk area where the malaria parasite was present.\r\n\r\n - It is estimated that 3,800,000 people caught the disease, and 8,000 died, just from a simple mosquito bite.\r\n\r\n - Malaria also cost the economy of Nigeria approximately 79 Billion CFA franc in lost productivity and treatment costs.\r\n\r\n**How you can help**\r\n\r\nIt doesn\u2019t have to be this way.  You can help protect your family, and your country, from malaria by taking a few simple steps:\r\n\r\n - Make sure your whole family sleeps under a bed net every night.\r\n\r\n - Seek testing, and then treatment, from a doctor or health worker at the first sign of illness.\r\n\r\n - If you are given treatment, make sure to finish your pills!\r\n\r\nTo learn more about malaria in your country, visit the NIgeria malaria program.", 
+  "content": "Malaria is a dangerous threat in Zambia, so it is important to take precautions and protect yourself and your family from the disease.  Here is how malaria affected Zambia in 2012:\r\n\r\n - 100% of the population of Zambia was living in an at-risk area where the malaria parasite was present.\r\n\r\n - It is estimated that 3,700,000 people caught the disease, and 11,000 died, just from a simple mosquito bite.\r\n\r\n - Malaria also cost the economy of Nigeria approximately 2.55 Billion Kwacha in lost productivity and treatment costs.\r\n\r\n**How you can help**\r\n\r\nIt doesn\u2019t have to be this way.  You can help protect your family, and your country, from malaria by taking a few simple steps:\r\n\r\n - Make sure your whole family sleeps under a bed net every night.\r\n\r\n - Seek testing, and then treatment, from a doctor or health worker at the first sign of illness.\r\n\r\n - If you are given treatment, make sure to finish your pills!\r\n\r\nTo learn more about malaria in your country, visit the [Zambia malaria program][1].\r\n\r\n\r\n  [1]: http://www.nmcc.org.zm/", 
   "source": null, 
   "featured": false, 
   "author_tags": [], 
@@ -24,6 +24,6 @@
   "published": null, 
   "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "malaria-in-nigeria", 
+  "slug": "malaria-in-zambia", 
   "uuid": "632980c9545f42f8bc7aac72a52af647"
 }
